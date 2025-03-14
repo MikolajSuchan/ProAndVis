@@ -1,1 +1,1 @@
-### Processing and Visualising Data with Janusz Stal
+### Processing and Visualising Data 
